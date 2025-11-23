@@ -1,0 +1,796 @@
+{
+  "uuid": "34714a9351423e430d99d67d3171922d",
+  "path": "Offline/HSS",
+  "name": "HSS",
+  "content": "Hava Savunma Sistemleri yarışması PCB kart tasarımı 15.06.25",
+  "created_at": "2025-01-29 02:28:15",
+  "updated_at": "2025-08-05 03:01:38",
+  "stick": "",
+  "documents": [
+    {
+      "uuid": "d80f409b5bfd1521b71f70c91ade87b0",
+      "title": "Sheet_1",
+      "description": "",
+      "docType": "1",
+      "master": "1161e0d8ececa6e5e599601d6d480122",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "88101a1c8e474e158111f4c5054ce8f8": 2,
+        "0eedab92e7aafdde01ddc57928d2356c": 3,
+        "b21f460f337c435d854d954092ca6a03": 2,
+        "9a3fb7510ee54df7a9e031ebef2ddd2f": 2,
+        "99b7447941aa45598ea6a1a5dc01a8ff": 1,
+        "e1182116cc86484298a0ba66caf26789": 1,
+        "d4a844d81a8421ba55bf9bbe0176c427": 2,
+        "cbd09e3b9c444766af03eeb2eda2fdfd": 2,
+        "315733dc9845443aa436bae6d6e449ec": 2,
+        "67f28c77b57d4bb6b348b6f243832f2b": 1,
+        "154b66255b01a09bf1c88bb1ea89be78": 5,
+        "5b645ca7a9854bce83f65f7c24588848": 2,
+        "08c349c290594c8f9002fdbbd58668ff": 2,
+        "944e213c72084ea2a595d797489a042f": 1,
+        "9eb36ba3d53f4fb8bfde4bf5778d5533": 1,
+        "96df7ed3d6824dd8b924dfe0608d3f76": 2,
+        "190074f0cb2f4bee80ef72e1531e6f0e": 1,
+        "21f8f80a3f7c3c2b00b33f71a31ff6ef": 1,
+        "e89f7b9624ac4dd6985716deea1d8426": 2,
+        "d25f7e924f89462a89a6043dfb4c3871": 2,
+        "f85d959b00834acf922fc4f85db60c99": 2,
+        "c36d7fb11f194772872a300ac14787b0": 1,
+        "551097305cf644f5bc1b1bca46802696": 1,
+        "c50841615a0e4eeca460b6fe61ba34b1": 2,
+        "2b9f4f0ca48d40f0bacc6a605a1f81f6": 1,
+        "a5dbcc6a555841e3afaa101593ff597f": 2,
+        "8d4cfeffa2d24db38675ae11e1a8cd4f": 1,
+        "f367c9043b9d696814add546ab641d32": 1,
+        "b3294a98d1ab403195231afc3478de51": 1,
+        "29c4b2e35e7942dc87c121dd1a162417": 1,
+        "34334909fbfe46b39702897edcc1b031": 1
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "100nF",
+          5,
+          "C0603",
+          "C1,C2,C4,C8,C13",
+          {
+            "Manufacturer Part": "CC0603KRX7R9BB104",
+            "Manufacturer": "YAGEO(国巨)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C14663"
+          }
+        ],
+        [
+          "1nF",
+          2,
+          "C0402",
+          "C3,C7",
+          {
+            "Manufacturer Part": "CC0402KRX7R8BB102",
+            "Manufacturer": "YAGEO(国巨)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C541372"
+          }
+        ],
+        [
+          "220uF",
+          3,
+          "CAP-SMD_BD6.3-L6.6-W6.6-FD",
+          "C5,C9,C14",
+          {
+            "Manufacturer Part": "EEEFTE221XAP",
+            "Manufacturer": "PANASONIC(松下)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C190724"
+          }
+        ],
+        [
+          "100uF",
+          2,
+          "CAP-SMD_BD6.3-L6.6-W6.6-LS7.3-FD",
+          "C6,C10",
+          {
+            "Manufacturer Part": "EEEFPV101XAP",
+            "Manufacturer": "PANASONIC(松下)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C178585"
+          }
+        ],
+        [
+          "330uF",
+          1,
+          "CAP-SMD_BD8.0-L8.3-W8.3-FD",
+          "C12",
+          {
+            "Manufacturer Part": "EEEFK1E331P",
+            "Manufacturer": "PANASONIC(松下)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C178543"
+          }
+        ],
+        [
+          "ZX-XH2.54-4PZZ",
+          2,
+          "CONN-TH_4P-P2.50_4PIN",
+          "CN1,CN2",
+          {
+            "Manufacturer Part": "ZX-XH2.54-4PZZ",
+            "Manufacturer": "Megastar(兆星)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C7429634"
+          }
+        ],
+        [
+          "Header-Male-2.54_1x3",
+          1,
+          "HDR-TH_3P-P2.54-V-M-1",
+          "CNC",
+          {
+            "Manufacturer Part": "2.54-1*3P针",
+            "Manufacturer": "BOOMELE(博穆精密)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C49257"
+          }
+        ],
+        [
+          "SS34_C8678",
+          3,
+          "SMA_L4.3-W2.6-LS5.2-RD",
+          "D1,D2,D3",
+          {
+            "Manufacturer Part": "SS34",
+            "Manufacturer": "MDD(辰达半导体)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C8678"
+          }
+        ],
+        [
+          "SS56_C402303",
+          1,
+          "SMB_L4.6-W3.6-LS5.3-RD",
+          "D4",
+          {
+            "Manufacturer Part": "SS56",
+            "Manufacturer": "LGE(鲁光)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C402303"
+          }
+        ],
+        [
+          "DC-005-5A-2.5",
+          1,
+          "DC-IN-TH_DC-005-5A-2.5",
+          "DC3",
+          {
+            "Manufacturer Part": "DC-005-5A-2.5",
+            "Manufacturer": "XKB Connection(中国星坤)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C381115"
+          }
+        ],
+        [
+          "ZX-XH2.54-2PZZ",
+          2,
+          "CONN-TH_2P-P2.50_HX25003-2A",
+          "FAN,FAN1",
+          {
+            "Manufacturer Part": "ZX-XH2.54-2PZZ",
+            "Manufacturer": "Megastar(兆星)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C7429632"
+          }
+        ],
+        [
+          "ZX-PM2.54",
+          1,
+          "HDR-TH_2P-P2.54-V-F",
+          "H1",
+          {
+            "Manufacturer Part": "ZX-PM2.54-1-2PY",
+            "Manufacturer": "Megastar(兆星)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C7499322"
+          }
+        ],
+        [
+          "PM2.54-3",
+          2,
+          "HDR-TH_3P-P2.54-V-F",
+          "H2,H3",
+          {
+            "Manufacturer Part": "PM254V-11-03-H85",
+            "Manufacturer": "XFCN(兴飞)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C541850"
+          }
+        ],
+        [
+          "33uH",
+          2,
+          "IND-SMD_L12.0-W12.0",
+          "L1,L2",
+          {
+            "Manufacturer Part": "SLH1207S330MTT",
+            "Manufacturer": "Sunltech(韩国顺磁)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C181844"
+          }
+        ],
+        [
+          "47uH",
+          1,
+          "IND-SMD_L12.3-W12.3",
+          "L3",
+          {
+            "Manufacturer Part": "SLH1207S470MTT",
+            "Manufacturer": "Sunltech(韩国顺磁)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C182149"
+          }
+        ],
+        [
+          "A-SP192DGHC-C01-4T",
+          1,
+          "LED0603-FD",
+          "LED1",
+          {
+            "Manufacturer Part": "A-SP192DGHC-C01-4T",
+            "Manufacturer": "Amicc(欧密格光电)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C19171301"
+          }
+        ],
+        [
+          "Header-Female-2.54_1x6",
+          1,
+          "HDR-TH_6P-P2.54-V-F",
+          "P1",
+          {
+            "Manufacturer Part": "2.54-1*6P母",
+            "Manufacturer": "BOOMELE(博穆精密)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C40877"
+          }
+        ],
+        [
+          "IRLZ44NPBF",
+          2,
+          "TO-220-3_L10.0-W4.5-P2.54-T",
+          "Q1,Q2",
+          {
+            "Manufacturer Part": "IRLZ44NPBF",
+            "Manufacturer": "Infineon(英飞凌)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C38774"
+          }
+        ],
+        [
+          "1.21kΩ",
+          2,
+          "R0805",
+          "R1,R3",
+          {
+            "Manufacturer Part": "RC0805FR-071K21L",
+            "Manufacturer": "YAGEO(国巨)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C273868"
+          }
+        ],
+        [
+          "20kΩ",
+          2,
+          "RES-ADJ-TH_3P-L10.0-W10.0-P2.50-BL-BS",
+          "R2,R4",
+          {
+            "Manufacturer Part": "3296W-1-203",
+            "Manufacturer": "BOCHEN(博晨)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C118936"
+          }
+        ],
+        [
+          "10kΩ",
+          2,
+          "R0805",
+          "R5,R6",
+          {
+            "Manufacturer Part": "0805W8F1002T5E",
+            "Manufacturer": "UNI-ROYAL(厚声)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C17414"
+          }
+        ],
+        [
+          "150Ω",
+          1,
+          "R0603",
+          "R8",
+          {
+            "Manufacturer Part": "RC0603FR-07150RL",
+            "Manufacturer": "YAGEO(国巨)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C114608"
+          }
+        ],
+        [
+          "DSWB03LHGET",
+          2,
+          "SW-TH_DSWB03LHGET",
+          "SW1,SW2",
+          {
+            "Manufacturer Part": "DSWB03LHGET",
+            "Manufacturer": "YE",
+            "Supplier": "LCSC",
+            "Supplier Part": "C99420"
+          }
+        ],
+        [
+          "NRVB130T1G_C917121",
+          1,
+          "SOD-123_L2.7-W1.6-LS3.7-RD-1",
+          "U1",
+          {
+            "Manufacturer Part": "NRVB130T1G",
+            "Manufacturer": "JSMSEMI(杰盛微)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C917121"
+          }
+        ],
+        [
+          "LM2596SX-ADJ",
+          2,
+          "TO-263-5_L10.2-W8.9-P1.70-TL",
+          "U3,U4",
+          {
+            "Manufacturer Part": "LM2596SX-ADJ/NOPB",
+            "Manufacturer": "TI(德州仪器)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C29781"
+          }
+        ],
+        [
+          "LM2596SX-5.0",
+          1,
+          "TO-263-5_L10.2-W8.9-P1.70-TL",
+          "U5",
+          {
+            "Manufacturer Part": "LM2596SX-5.0/NOPB",
+            "Manufacturer": "TI(德州仪器)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C10002"
+          }
+        ],
+        [
+          "XL4015E1",
+          1,
+          "TO-263-5_L10.2-W8.9-P1.70-TL",
+          "U6",
+          {
+            "Manufacturer Part": "XL4015E1",
+            "Manufacturer": "XLSEMI(芯龙)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C51661"
+          }
+        ]
+      ],
+      "updateTime": 1754352098,
+      "createTime": 1738106895,
+      "histories": [],
+      "created_at": "2025-01-29 02:28:15",
+      "updated_at": "2025-08-05 03:01:38"
+    },
+    {
+      "uuid": "934ea18c8a7ff193901d0abd7222cec9",
+      "puuid": "34714a9351423e430d99d67d3171922d",
+      "title": "PCB_Block2_2",
+      "filename": "PCB_Block2_2.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "398691f1f785460098bbe5ee6590333c": 1,
+        "4b726cc418924ba2b113f2b24c1e4f4b": 2,
+        "cd3bdfa363e54a4f87ca99360039bc06": 2,
+        "f8151fdc728a41ebbc304e11d39e5437": 5,
+        "0821ed6ea50c44f4909e4be7610e4198": 2,
+        "c0a8d5074cd14a40a7baee3704c47035": 2,
+        "ff56c0f2a0fe4e4abe227426f36c2b91": 2,
+        "e639687977d3435d86c43a66dc16c6af": 1,
+        "d8f8382978a7446f8e8f71c956b0d192": 1,
+        "7e70b923819e4f3bb9fdeaf4abdca9d3": 1,
+        "b7243d11a5f04fb7894887aaa3569585": 3,
+        "2c44c7117e604b4d929b3540d11a511a": 1,
+        "3adb7ccaa70643ffb68bd6b12746f1c2": 1,
+        "73b13f40a1a24714ba033b6443e6b3a7": 1,
+        "cdd2a2f88f9047a3974e8fb98887b1dd": 2,
+        "1e14fbe27a4844709b0e7b348b7cd16c": 2,
+        "030ae4d858a4443a8f3abc89b2970a1f": 1,
+        "b2142ad37752444c81455a204d85065a": 1,
+        "84f1ed3c8ee94504833047c26b4d21a2": 1,
+        "fb8b10620b5a459d9b03fd14987346f4": 2,
+        "b60f399a7a7e41848b2be1eb49c79141": 4,
+        "02df73a49047495f8bd8980a4f39dcf9": 2,
+        "20fb6e71bbc24239a2db6aaece7ef4f9": 2,
+        "bbf2d74717914929b5e52e3caa0392b2": 1,
+        "1683c8b979374acea7f5ebd913839542": 1,
+        "75e4ea35310747fdbf6f5a106a646145": 3,
+        "253cdfaaa9784aa9ac4f75afb905f3ce": 2
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "100nF",
+          5,
+          "C0603",
+          "C1,C2,C4,C8,C13",
+          {
+            "Manufacturer Part": "CC0603KRX7R9BB104",
+            "Manufacturer": "YAGEO(国巨)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C14663"
+          }
+        ],
+        [
+          "1nF",
+          2,
+          "C0402",
+          "C3,C7",
+          {
+            "Manufacturer Part": "CC0402KRX7R8BB102",
+            "Manufacturer": "YAGEO(国巨)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C541372"
+          }
+        ],
+        [
+          "220uF",
+          2,
+          "CAP-SMD_BD6.3-L6.6-W6.6-FD",
+          "C5,C9",
+          {
+            "Manufacturer Part": "EEEFTE221XAP",
+            "Manufacturer": "PANASONIC(松下)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C190724"
+          }
+        ],
+        [
+          "100uF",
+          2,
+          "CAP-SMD_BD6.3-L6.6-W6.6-LS7.3-FD",
+          "C6,C10",
+          {
+            "Manufacturer Part": "EEEFPV101XAP",
+            "Manufacturer": "PANASONIC(松下)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C178585"
+          }
+        ],
+        [
+          "330uF",
+          1,
+          "CAP-SMD_BD8.0-L8.3-W8.3-FD",
+          "C12",
+          {
+            "Manufacturer Part": "EEEFK1E331P",
+            "Manufacturer": "PANASONIC(松下)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C178543"
+          }
+        ],
+        [
+          "220uF",
+          1,
+          "CAP-SMD_BD10.0-L10.3-W10.3-FD",
+          "C14",
+          {
+            "Manufacturer Part": "EEEFP1H221AP",
+            "Manufacturer": "PANASONIC(松下)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C178579"
+          }
+        ],
+        [
+          "ZX-XH2.54-4PZZ",
+          2,
+          "CONN-TH_4P-P2.50_4PIN",
+          "CN1,CN2",
+          {
+            "Manufacturer Part": "ZX-XH2.54-4PZZ",
+            "Manufacturer": "Megastar(兆星)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C7429634"
+          }
+        ],
+        [
+          "Header-Male-2.54_1x3",
+          1,
+          "HDR-TH_3P-P2.54-V-M-1",
+          "CNC",
+          {
+            "Manufacturer Part": "2.54-1*3P针",
+            "Manufacturer": "BOOMELE(博穆精密)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C49257"
+          }
+        ],
+        [
+          "SS34_C8678",
+          3,
+          "SMA_L4.3-W2.6-LS5.2-RD",
+          "D1,D2,D3",
+          {
+            "Manufacturer Part": "SS34",
+            "Manufacturer": "MDD(辰达半导体)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C8678"
+          }
+        ],
+        [
+          "DC-005-5A-2.5",
+          1,
+          "DC-IN-TH_DC-005-5A-2.5",
+          "DC3",
+          {
+            "Manufacturer Part": "DC-005-5A-2.5",
+            "Manufacturer": "XKB Connection(中国星坤)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C381115"
+          }
+        ],
+        [
+          "A4988",
+          2,
+          "DIP-16_L20.3-W15.2-P2.54_LS12.7_A4988",
+          "DRIVER,DRIVER1",
+          {
+            "Manufacturer Part": "A4988",
+            "Manufacturer": "null",
+            "Supplier": "LCSC",
+            "Supplier Part": "C9900168373"
+          }
+        ],
+        [
+          "OLED 0.96 INCH 128X64 I2C",
+          1,
+          "OLED 0.96 INCH 128X64 I2C",
+          "DS1",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "ZX-XH2.54-2PZZ",
+          2,
+          "CONN-TH_2P-P2.50_HX25003-2A",
+          "FAN,FAN1",
+          {
+            "Manufacturer Part": "ZX-XH2.54-2PZZ",
+            "Manufacturer": "Megastar(兆星)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C7429632"
+          }
+        ],
+        [
+          "ZX-PM2.54",
+          1,
+          "HDR-TH_2P-P2.54-V-F",
+          "H1",
+          {
+            "Manufacturer Part": "ZX-PM2.54-1-2PY",
+            "Manufacturer": "Megastar(兆星)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C7499322"
+          }
+        ],
+        [
+          "PM2.54-3",
+          2,
+          "HDR-TH_3P-P2.54-V-F",
+          "H2,H3",
+          {
+            "Manufacturer Part": "PM254V-11-03-H85",
+            "Manufacturer": "XFCN(兴飞)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C541850"
+          }
+        ],
+        [
+          "33uH",
+          2,
+          "IND-SMD_L12.0-W12.0",
+          "L1,L2",
+          {
+            "Manufacturer Part": "SLH1207S330MTT",
+            "Manufacturer": "Sunltech(韩国顺磁)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C181844"
+          }
+        ],
+        [
+          "47uH",
+          1,
+          "IND-SMD_L12.3-W12.3",
+          "L3",
+          {
+            "Manufacturer Part": "SLH1207S470MTT",
+            "Manufacturer": "Sunltech(韩国顺磁)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C182149"
+          }
+        ],
+        [
+          "A-SP192DGHC-C01-4T",
+          1,
+          "LED0603-FD",
+          "LED1",
+          {
+            "Manufacturer Part": "A-SP192DGHC-C01-4T",
+            "Manufacturer": "Amicc(欧密格光电)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C19171301"
+          }
+        ],
+        [
+          "Header-Female-2.54_1x6",
+          1,
+          "HDR-TH_6P-P2.54-V-F",
+          "P1",
+          {
+            "Manufacturer Part": "2.54-1*6P母",
+            "Manufacturer": "BOOMELE(博穆精密)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C40877"
+          }
+        ],
+        [
+          "IRLZ44NPBF",
+          2,
+          "TO-220-3_L10.0-W4.5-P2.54-T",
+          "Q1,Q2",
+          {
+            "Manufacturer Part": "IRLZ44NPBF",
+            "Manufacturer": "Infineon(英飞凌)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C38774"
+          }
+        ],
+        [
+          "1.21kΩ",
+          2,
+          "R0805",
+          "R1,R3",
+          {
+            "Manufacturer Part": "RC0805FR-071K21L",
+            "Manufacturer": "YAGEO(国巨)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C273868"
+          }
+        ],
+        [
+          "10kΩ",
+          2,
+          "R0805",
+          "R5,R6",
+          {
+            "Manufacturer Part": "0805W8F1002T5E",
+            "Manufacturer": "UNI-ROYAL(厚声)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C17414"
+          }
+        ],
+        [
+          "20kΩ",
+          2,
+          "RES-ADJ-TH_3P-L10.0-W10.0-P2.50-BL-BS",
+          "R2,R4",
+          {
+            "Manufacturer Part": "3296W-1-203",
+            "Manufacturer": "BOCHEN(博晨)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C118936"
+          }
+        ],
+        [
+          "150Ω",
+          1,
+          "R0402",
+          "R7",
+          {
+            "Manufacturer Part": "RC0402FR-07150RL",
+            "Manufacturer": "YAGEO(国巨)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C138054"
+          }
+        ],
+        [
+          "DSWB03LHGET",
+          2,
+          "SW-TH_DSWB03LHGET",
+          "SW1,SW2",
+          {
+            "Manufacturer Part": "DSWB03LHGET",
+            "Manufacturer": "YE",
+            "Supplier": "LCSC",
+            "Supplier Part": "C99420"
+          }
+        ],
+        [
+          "NRVB130T1G_C917121",
+          1,
+          "SOD-123_L2.7-W1.6-LS3.7-RD-1",
+          "U1",
+          {
+            "Manufacturer Part": "NRVB130T1G",
+            "Manufacturer": "JSMSEMI(杰盛微)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C917121"
+          }
+        ],
+        [
+          "Pi",
+          1,
+          "RASPBERRY PI PICO/ RASPBERRY PI PICO W",
+          "U2",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "LM2596SX-ADJ",
+          2,
+          "TO-263-5_L10.2-W8.9-P1.70-TL",
+          "U3,U4",
+          {
+            "Manufacturer Part": "LM2596SX-ADJ/NOPB",
+            "Manufacturer": "TI(德州仪器)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C29781"
+          }
+        ],
+        [
+          "LM2596SX-5.0",
+          1,
+          "TO-263-5_L10.2-W8.9-P1.70-TL",
+          "U5",
+          {
+            "Manufacturer Part": "LM2596SX-5.0/NOPB",
+            "Manufacturer": "TI(德州仪器)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C10002"
+          }
+        ]
+      ],
+      "updateTime": 1749901288,
+      "createTime": 1747423337,
+      "histories": [],
+      "created_at": "2025-05-16 22:22:17",
+      "updated_at": "2025-06-14 14:41:28"
+    }
+  ],
+  "sort": [],
+  "title": "HSS",
+  "foldername": "HSS",
+  "schfilename": "HSS.json",
+  "schfilemtime": 1754352098677
+}
