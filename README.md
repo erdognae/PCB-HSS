@@ -39,5 +39,9 @@ The board features a robust power stage with **3 independent Buck Converters (LM
 * Educational Robotics Kits.
 
 
-This project is developed for educational purposes at **Gazi University**.
-The card is a basic design and can be improved much more and may have shortcomings.
+#### This project is developed for educational purposes at **Gazi University**.
+####The card is a basic design and can be improved much more and may have shortcomings.
+
+<img width="787" height="570" alt="3d" src="https://github.com/user-attachments/assets/91052115-2c1e-477f-bb1c-89e7ddb54da8" />
+
+
