@@ -1,4 +1,4 @@
-# Ergenekon: Pico W Based Multi-Purpose Control Board
+# Ergenekon: Pico  Based Multi-Purpose Control Board
 
 ## Overview
 Ergenekon is a custom carrier board designed for the **Raspberry Pi Pico W**, developed by the **Gazi Cyber Research and Development (Gazi Siber Araştırma ve Geliştirme)** team. This hardware serves as a compact, all-in-one solution for 2-axis robotic applications, IoT devices, and laboratory automation projects requiring independent power regulation and wireless connectivity.
@@ -38,5 +38,6 @@ The board features a robust power stage with **3 independent Buck Converters (LM
 * IoT-based Environment Monitoring Stations.
 * Educational Robotics Kits.
 
-## Disclaimer
-This project is developed for educational and research purposes at **Gazi University**.
+
+This project is developed for educational purposes at **Gazi University**.
+The card is a basic design and can be improved much more and may have shortcomings.
